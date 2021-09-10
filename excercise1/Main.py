@@ -52,5 +52,3 @@ with open(path + filename, 'r') as input_file:
         count2 = len(number2)
         savings = (count1 - count2)+savings
 print('The character savings is: ' +str(savings))
-
-
